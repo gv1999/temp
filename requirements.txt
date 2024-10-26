@@ -1,0 +1,7 @@
+yt-dlp
+torch
+torchaudio
+transformers
+flask
+whisper
+ffmpeg-python
